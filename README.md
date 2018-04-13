@@ -3,9 +3,6 @@
 > This GitHub repository is a "modern" presentation of the original SDPLIB 1.2
 > library by  Brian Borchers hosted at
 > http://euler.nmt.edu/~brian/sdplib/sdplib.html.
->
-> Hans Mittelman has [benchmarked](http://plato.asu.edu/ftp/sdplib.html) a
-> number of SDP codes on the SDPLIB problems.
 
 If you use SDPLIB and wish to cite it, please refer to:
 
