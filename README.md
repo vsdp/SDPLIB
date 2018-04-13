@@ -290,31 +290,34 @@ In SDPA sparse format, this problem can be written as:
    [DOI: 10.1080/1055678990880576](https://doi.org/10.1080/1055678990880576)
 
 4. <a id="ref4"></a>
-   K. Fujisawa, M. Fukuda, M. Kojima, and K. Nakata. **Numerical Evaluation
-   of SDPA (Semidefinite Programming Algorithm)**,  Technical Report B-330,
-   Department of Mathematical and Computing Sciences, Tokyo Institute of
-   Technology, September, 1997.
+   K. Fujisawa, M. Fukuda, M. Kojima, and K. Nakata. **Numerical Evaluation of
+   SDPA (Semidefinite Programming Algorithm)**. In: Frenk H., Roos K.,
+   Terlaky T., Zhang S. (eds) High Performance Optimization. Applied
+   Optimization, vol 33., Springer (2000), Boston, MA.
+   [DOI: 10.1007/978-1-4757-3216-0_11](https://doi.org/10.1007/978-1-4757-3216-0_11)
 
 5. <a id="ref5"></a>
    K. Fujisawa, M. Kojima, and K. Nakata. **SDPA (Semidefinite Programming
    Algorithm) User's Manual**, Technical Report B-308, Department of
    Mathematical and Computing Sciences, Tokyo Institute of Technology.
-   Revised, May, 1998.
+   Revised, May, 1998. http://www.is.titech.ac.jp/~kojima/articles/b-308.pdf
 
 6. <a id="ref6"></a>
    K. Fujisawa, M. Kojima and K. Nakata. **Exploiting Sparsity in Primal-Dual
    Interior-Point Methods for Semidefinite Programming**, Mathematical
    Programming, 79(1997):235-253.
+   [DOI: 10.1007/BF02614319](https://doi.org/10.1007/BF02614319)
 
 7. <a id="ref7"></a>
    C. Helmberg and F. Rendl. **A spectral bundle method for semidefinite
-   programming**, ZIB Preprint SC-9737, Konrad Zuse Zentrum für
-   Informationstechnik, August 1997.
+   programming**, SIAM J. Optim., 10-3 (2000), 673–696.
+   [DOI: 10.1137/S1052623497328987](https://doi.org/10.1137/S1052623497328987)
 
 8. <a id="ref8"></a>
    T. Nakamura and M. Ohsaki. **A Natural Generator of Optimum Topology of
    Plane Trusses for Specified Fundamental Frequency**, Computer Methods in
    Applied Mechanics and Engineering 94(1992):113-129.
+   [DOI: 10.1016/0045-7825(92)90159-H](https://doi.org/10.1016/0045-7825%2892%2990159-H)
 
 
 
