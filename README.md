@@ -181,15 +181,15 @@ format [[5]](#ref5).  This file provides a description of the file format.
 We work with a semidefinite programming problem that has been written in the
 following standard form:
 
-    (P)    min c1*x1+c2*x2+...+cm*xm
-           st  F1*x1+F2*x2+...+Fm*xn-F0=X
-                                     X >= 0
+    (P)    min   c1*x1+c2*x2+...+cm*xm
+           s.t.  F1*x1+F2*x2+...+Fm*xm - F0 = X
+                                         X >= 0
 
 The dual of the problem is:
 
-    (D)    max tr(F0*Y)
-           st  tr(Fi*Y)=ci           i=1,2,...,m
-                     Y >= 0
+    (D)    max   tr(F0*Y)
+           s.t.  tr(Fi*Y) = ci    i = 1,2,...,m
+                       Y >= 0
 
 Here all of the matrices `F0`, `F1`, ..., `Fm`, `X`, and `Y` are assumed to be
 symmetric of size `n` by `n`.  The constraints `X >= 0` and `Y >= 0` mean that
