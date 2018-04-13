@@ -3,6 +3,14 @@
 > This GitHub repository is a "modern" presentation of the original SDPLIB 1.2
 > library by  Brian Borchers hosted at
 > http://euler.nmt.edu/~brian/sdplib/sdplib.html.
+>
+> Hans Mittelman has [benchmarked](http://plato.asu.edu/ftp/sdplib.html) a
+> number of SDP codes on the SDPLIB problems.
+
+If you use SDPLIB and wish to cite it, please refer to:
+
+> Borchers, B., SDPLIB 1.2, A Library of Semidefinite Programming Test Problems.
+> Optimization Methods and Software. 11(1):683-690, 1999.
 
 This is version 1.2 of SDPLIB.  The only change in this version of
 SDPLIB is that problem `hinf37` has been removed- the problem was
@@ -292,7 +300,7 @@ In SDPA sparse format, this problem can be written as:
 4. <a id="ref4"></a>
    K. Fujisawa, M. Fukuda, M. Kojima, and K. Nakata. **Numerical Evaluation of
    SDPA (Semidefinite Programming Algorithm)**. In: Frenk H., Roos K.,
-   Terlaky T., Zhang S. (eds) High Performance Optimization. Applied
+   Terlaky T., Zhang S. (eds) **High Performance Optimization.** Applied
    Optimization, vol 33., Springer (2000), Boston, MA.
    [DOI: 10.1007/978-1-4757-3216-0_11](https://doi.org/10.1007/978-1-4757-3216-0_11)
 
