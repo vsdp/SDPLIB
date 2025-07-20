@@ -167,7 +167,8 @@ means infeasibility with respect to SDPA's primal and dual.
     [[1]](#ref1).  The problems were originally developed by A. Nemirovski.
 
 14. The optimal objective value for `qap10` was found to be `-1.093e+03`
-    by at least three indepentend experiments (see #2 for details).
+    by at least three indepentend experiments
+    (see [#2](https://github.com/vsdp/SDPLIB/issues/2) for details).
 
 
 
