@@ -101,7 +101,7 @@ means infeasibility with respect to SDPA's primal and dual.
 | qap7      |  358 |   50 | -4.25e+02               |     9 |
 | qap8      |  529 |   65 | -7.57e+02               |     9 |
 | qap9      |  748 |   82 | -1.410e+03              |     9 |
-| qap10     | 1021 |  101 | -1.093e+01              |     9 |
+| qap10     | 1021 |  101 | -1.093e+01              | 9, 14 |
 | qpG11     |  800 | 1600 |  2.448659e+03           |    10 |
 | qpG51     | 1000 | 2000 |  1.181000e+03           |    10 |
 | ss30      |  132 |  426 |  2.02395e+01            |     1 |
@@ -165,6 +165,9 @@ means infeasibility with respect to SDPA's primal and dual.
 
 13. These truss topology design problems are taken from the SDPPACK web site
     [[1]](#ref1).  The problems were originally developed by A. Nemirovski.
+
+14. The optimal objective value for `qap10` was found to be `-1.093e+03`
+    by at least three indepentend experiments (see #2 for details).
 
 
 
